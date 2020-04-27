@@ -1,3 +1,6 @@
 body {
+	margin: 10px;
+	font-size: 3em;
+	font-family: Helvetica Narrow, sans-serif;
 	background-color: LightBlue;
 }
